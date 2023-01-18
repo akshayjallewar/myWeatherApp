@@ -1,0 +1,25 @@
+body {
+    margin: 0 50px;
+    
+}
+main {
+    padding: 50px;
+}
+
+img {
+    height: 20%;
+    width: 20%;
+}
+
+.cardcenter {
+    padding: 0 220px;
+    margin: auto;
+}
+
+p.copyright {
+    display: block;
+    font-size: 0.75rem;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}

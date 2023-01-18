@@ -23,3 +23,9 @@ p.copyright {
     padding-bottom: 0;
     margin-bottom: 0;
 }
+
+div.row {
+    margin: auto;
+    max-width: 50%;
+    text-align: center;
+}
